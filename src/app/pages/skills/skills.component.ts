@@ -25,6 +25,14 @@ import { Component } from '@angular/core';
           </ul>
         </div>
         <div class="skill-card">
+          <h3>Backend</h3>
+          <ul>
+            <li>Node.js <span class="bar bar-5"></span></li>
+            <li>Express.js <span class="bar bar-5"></span></li>
+            <li>REST APIs <span class="bar bar-4"></span></li>
+          </ul>
+        </div>
+        <div class="skill-card">
           <h3>Tools</h3>
           <ul>
             <li>Git <span class="bar bar-5"></span></li>

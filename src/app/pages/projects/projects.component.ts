@@ -25,7 +25,6 @@ import { Component } from '@angular/core';
           <div class="tech-chips">
             <span>Angular</span><span>Figma</span><span>Charts</span>
           </div>
-          
           <div class="project-links">
             <a href="#" class="btn">Live</a>
             <a href="#" class="btn outline">Code</a>
@@ -38,7 +37,6 @@ import { Component } from '@angular/core';
           <div class="tech-chips">
             <span>Angular</span><span></span><span>Charts</span>
           </div>
-          
           <div class="project-links">
             <a href="#" class="btn">Live</a>
             <a href="#" class="btn outline">Code</a>
