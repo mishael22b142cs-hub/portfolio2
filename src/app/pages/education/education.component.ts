@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
       <div class="timeline">
         <div class="edu-card">
           <h3>Bachelor of Computer Science</h3>
-          <p>University of Lagos <span class="highlight">2022–2026</span></p>
+          <p>Government Engineering College,Wayanad <span class="highlight">2022–2026</span></p>
         </div>
       </div>
     </section>
