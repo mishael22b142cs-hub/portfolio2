@@ -19,11 +19,11 @@ import { Component } from '@angular/core';
           </div>
         </div>
         <div class="project-card">
-          <img class="project-image" src="/waste.png" alt="Payment Gateway screenshot" loading="lazy" />
-          <h3>Payment Gateway</h3>
-          <p>Payment Gateway for waste management monthly fee collection.</p>
+          <img class="project-image" src="/gate.jpg" alt="Gate Assist screenshot" loading="lazy" />
+          <h3>Gate Assist</h3>
+          <p>Gate Assist system designed to streamline access and visitor management.</p>
           <div class="tech-chips">
-            <span>Angular</span><span>Figma</span><span>Charts</span>
+            <span>Angular</span><span>SCSS</span><span>Responsive</span>
           </div>
           <div class="project-links">
             <a href="#" class="btn">Live</a>
@@ -31,7 +31,31 @@ import { Component } from '@angular/core';
           </div>
         </div>
         <div class="project-card">
-          <img class="project-image" src="login.png" alt="Login Page screenshot" loading="lazy" />
+          <img class="project-image" src="/ward.jpg" alt="Ward Connect screenshot" loading="lazy" />
+          <h3>Ward Connect</h3>
+          <p>Ward Connect platform for managing ward-level communication and services.</p>
+          <div class="tech-chips">
+            <span>Angular</span><span>SCSS</span><span>Responsive</span>
+          </div>
+          <div class="project-links">
+            <a href="#" class="btn">Live</a>
+            <a href="#" class="btn outline">Code</a>
+          </div>
+        </div>
+        <div class="project-card">
+          <img class="project-image" src="/waste.png" alt="Waste Collection Payment screenshot" loading="lazy" />
+          <h3>Waste Collection Payment</h3>
+          <p>Waste collection payment system for handling monthly fee collection and tracking.</p>
+          <div class="tech-chips">
+            <span>Angular</span><span>SCSS</span><span>Responsive</span>
+          </div>
+          <div class="project-links">
+            <a href="#" class="btn">Live</a>
+            <a href="#" class="btn outline">Code</a>
+          </div>
+        </div>
+        <div class="project-card">
+          <img class="project-image" src="/login.png" alt="Login Page screenshot" loading="lazy" />
           <h3>Login Page</h3>
           <p>Login page for user authentication and access control.</p>
           <div class="tech-chips">

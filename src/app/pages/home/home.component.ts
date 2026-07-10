@@ -10,20 +10,11 @@ import { Component } from '@angular/core';
           I'm <span class="highlight">Mishael Joseph</span>, <span class="highlight">UI/UX designer</span>
           passionate about creating responsive and elegant websites
         </p>
-        <a href="resume.pdf" class="btn">My Resume</a>
+        <a href="/resume.pdf" class="btn" target="_blank" rel="noopener noreferrer">My Resume</a>
       </div>
       <div class="hero-photo">
         <img src="/mii.png" alt="Mishael Joseph portrait" />
       </div>
-    </section>
-
-    <section class="about" id="about">
-      <h2>ABOUT <span class="highlight">ME</span></h2>
-      <p>
-        Hello! I'm mishaeljoseph, a frontend web developer and UI/UX designer currently pursuing
-        my Bachelor's in Computer Science. I enjoy building clean, modern, and interactive websites
-        that focus on user experience and performance.
-      </p>
     </section>
   `,
   styleUrls: ['./home.component.css']

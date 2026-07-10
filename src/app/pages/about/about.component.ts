@@ -6,10 +6,10 @@ import { Component } from '@angular/core';
     <section class="about-section">
       <h2>ABOUT <span class="highlight">ME</span></h2>
       <div class="about-card">
-        <p>Hello! I'm <span class="highlight">mishaeljoseph</span>, a frontend web developer and UI/UX designer currently pursuing my Bachelor's in Computer Science. I enjoy building clean, modern, and interactive websites that focus on user experience and performance.</p>
+        <p>Hello! I'm Mishael Joseph, a Full Stack Developer currently pursuing my B.Tech in Computer Science &amp; Engineering. I enjoy building clean, responsive, and scalable web applications — from crafting intuitive UIs with Angular to designing robust backend systems with Node.js, Express.js, and PostgreSQL.</p>
         <ul class="about-highlights">
-          <li><span class="highlight">3+ years</span> experience</li>
-          <li><span class="highlight">Lagos, Nigeria</span></li>
+          <li><span class="highlight">3 Month internship</span> experience</li>
+          <li><span class="highlight">Ernakulam,Kerala</span></li>
           <li><span class="highlight">Available</span> for freelance & remote</li>
         </ul>
       </div>

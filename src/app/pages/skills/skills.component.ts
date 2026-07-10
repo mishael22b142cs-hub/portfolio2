@@ -9,19 +9,12 @@ import { Component } from '@angular/core';
         <div class="skill-card">
           <h3>Frontend</h3>
           <ul>
+            <li>HTML5 <span class="bar bar-5"></span></li>
+            <li>CSS3 <span class="bar bar-5"></span></li>
+            <li>SCSS <span class="bar bar-4"></span></li>
+            <li>JavaScript <span class="bar bar-5"></span></li>
             <li>Angular <span class="bar bar-5"></span></li>
-            <li>React <span class="bar bar-4"></span></li>
-            <li>TypeScript <span class="bar bar-4"></span></li>
-            <li>HTML/CSS <span class="bar bar-5"></span></li>
-          </ul>
-        </div>
-        <div class="skill-card">
-          <h3>UI/UX</h3>
-          <ul>
-            <li>Figma <span class="bar bar-4"></span></li>
-            <li>Adobe XD <span class="bar bar-3"></span></li>
-            <li>Wireframing <span class="bar bar-4"></span></li>
-            <li>Prototyping <span class="bar bar-4"></span></li>
+            <li>Responsive Design <span class="bar bar-4"></span></li>
           </ul>
         </div>
         <div class="skill-card">
@@ -36,9 +29,17 @@ import { Component } from '@angular/core';
           <h3>Tools</h3>
           <ul>
             <li>Git <span class="bar bar-5"></span></li>
-            <li>VS Code <span class="bar bar-5"></span></li>
-            <li>Jira <span class="bar bar-3"></span></li>
-            <li>Slack <span class="bar bar-4"></span></li>
+            <li>GitHub <span class="bar bar-5"></span></li>
+            <li>Heroku <span class="bar bar-3"></span></li>
+            <li>JWT Basics <span class="bar bar-4"></span></li>
+          </ul>
+        </div>
+        <div class="skill-card">
+          <h3>Databases</h3>
+          <ul>
+            <li>MySQL <span class="bar bar-5"></span></li>
+            <li>MongoDB <span class="bar bar-4"></span></li>
+            <li>PostgreSQL <span class="bar bar-5"></span></li>
           </ul>
         </div>
       </div>
