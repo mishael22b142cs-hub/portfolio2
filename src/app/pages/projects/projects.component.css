@@ -11,7 +11,7 @@
 }
 .projects-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, 420px);
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 420px));
   gap: 2rem;
   justify-content: center;
   align-items: stretch;
@@ -54,6 +54,7 @@
 }
 .tech-chips {
   display: flex;
+  flex-wrap: wrap;
   gap: 0.5rem;
   margin-bottom: 1rem;
 }
@@ -95,10 +96,14 @@
 }
 
 @media (max-width: 768px) {
+  .projects-section {
+    padding: 2rem 1.25rem;
+  }
   .projects-grid {
     grid-template-columns: 1fr;
   }
   .project-card {
     width: 100%;
+    min-height: 0;
   }
 }

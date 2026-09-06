@@ -60,3 +60,16 @@
 .contact-social a:hover {
   color: #fff;
 }
+
+@media (max-width: 600px) {
+  .contact-section {
+    padding: 2rem 1.25rem;
+  }
+  .contact-form {
+    max-width: 100%;
+  }
+  .contact-social {
+    flex-wrap: wrap;
+    gap: 1.25rem;
+  }
+}
