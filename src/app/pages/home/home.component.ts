@@ -7,8 +7,8 @@ import { Component } from '@angular/core';
       <div class="hero-text">
         <h1>Welcome to my <span class="highlight">portfolio!</span></h1>
         <p>
-          I'm <span class="highlight">Mishael Joseph</span>, <span class="highlight">UI/UX designer</span>
-          passionate about creating responsive and elegant websites
+          I'm <span class="highlight">Mishael Joseph</span>, a <span class="highlight">Data Scientist &amp; ML Engineer</span>
+          building recommender systems and LLM-powered agents, with full-stack development experience
         </p>
         <a href="/resume.pdf" class="btn" target="_blank" rel="noopener noreferrer">My Resume</a>
       </div>
