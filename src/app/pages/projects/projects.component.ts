@@ -8,9 +8,9 @@ import { Component } from '@angular/core';
       <div class="projects-grid">
         <div class="project-card">
           <h3>CineSense Agent</h3>
-          <p>LLM movie assistant: a LangGraph agent that calls CineSense's ML models as tools to answer recommendation and rating questions, with conversational memory.</p>
+          <p>LLM movie assistant: a LangGraph agent that calls CineSense's ML models as tools to answer recommendation and rating questions, with conversational memory. Upgraded the recommender to real semantic search (sentence-transformer embeddings + FAISS vector index) and added a PyTorch rating model benchmarked against Random Forest, containerized with Docker and a GitHub Actions CI/CD pipeline.</p>
           <div class="tech-chips">
-            <span>LangGraph</span><span>Groq</span><span>Streamlit</span>
+            <span>LangGraph</span><span>Groq</span><span>PyTorch</span><span>FAISS</span><span>Docker</span><span>Streamlit</span>
           </div>
           <div class="project-links">
             <a href="https://cinesense-agent-mishael.streamlit.app/" class="btn" target="_blank" rel="noopener noreferrer">Live</a>

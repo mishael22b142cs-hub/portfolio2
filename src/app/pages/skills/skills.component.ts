@@ -12,17 +12,17 @@ import { Component } from '@angular/core';
             <li>Supervised Learning <span class="bar bar-4"></span></li>
             <li>Random Forest <span class="bar bar-4"></span></li>
             <li>Recommender Systems <span class="bar bar-5"></span></li>
-            <li>Cosine Similarity <span class="bar bar-4"></span></li>
+            <li>Semantic Search / Vector Similarity <span class="bar bar-4"></span></li>
             <li>Feature Engineering <span class="bar bar-4"></span></li>
           </ul>
         </div>
         <div class="skill-card">
           <h3>Data Science &amp; GenAI</h3>
           <ul>
-            <li>scikit-learn <span class="bar bar-4"></span></li>
-            <li>pandas / NumPy <span class="bar bar-4"></span></li>
-            <li>LangGraph <span class="bar bar-4"></span></li>
-            <li>LLM Agents / Tool Calling <span class="bar bar-4"></span></li>
+            <li>PyTorch <span class="bar bar-4"></span></li>
+            <li>scikit-learn / pandas / NumPy <span class="bar bar-4"></span></li>
+            <li>Sentence-Transformers / FAISS <span class="bar bar-4"></span></li>
+            <li>LangGraph &amp; Retrieval-Augmented Generation <span class="bar bar-4"></span></li>
             <li>Groq API <span class="bar bar-3"></span></li>
           </ul>
         </div>
@@ -47,9 +47,10 @@ import { Component } from '@angular/core';
         <div class="skill-card">
           <h3>Backend &amp; Deployment</h3>
           <ul>
-            <li>Flask <span class="bar bar-4"></span></li>
+            <li>FastAPI / Flask <span class="bar bar-4"></span></li>
             <li>Node.js / Express.js <span class="bar bar-5"></span></li>
-            <li>REST APIs <span class="bar bar-4"></span></li>
+            <li>Docker &amp; CI/CD (GitHub Actions) <span class="bar bar-4"></span></li>
+            <li>AWS (ECR, App Runner) <span class="bar bar-3"></span></li>
             <li>Streamlit <span class="bar bar-4"></span></li>
             <li>JWT Authentication <span class="bar bar-4"></span></li>
           </ul>
